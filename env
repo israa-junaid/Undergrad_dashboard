@@ -1,0 +1,4 @@
+SECRET = "HIGUYSTHISISMUHAMMDAHMEDANDTHATISSECRETKEYFORVINODBHADYRTAHPAAYAEYAYAYYAYAYAYAYAYAYAYY"
+DB_URL="mongodb+srv://fypportal:ahmed123@cluster0.yvupc.mongodb.net/FYPPORTALV1?retryWrites=true&w=majority"
+PORT = 5000;
+password = "nedfyp2018$"
